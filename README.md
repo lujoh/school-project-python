@@ -1,7 +1,7 @@
 # school-project-python
 
 To view live project 
-[go to](https://lujoh.github.io/the-German-school-system/)
+[click here](https://lujoh.github.io/the-German-school-system/)
 
 ## Description:
 
