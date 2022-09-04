@@ -1,8 +1,5 @@
 # school-project-python
 
-To view live project 
-[click here](https://lujoh.github.io/the-German-school-system/)
-
 ## Description:
 
 I made this project as the final project for my Programming in Problem Solving class.
